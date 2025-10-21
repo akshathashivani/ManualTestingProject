@@ -1,17 +1,16 @@
-# 🧪 Manual Testing Project – Social Media Application
+# Manual Testing Project – Social Media Application
 
-## 📋 Overview
+##  Overview
 This project contains a *comprehensive set of high-level functional manual testing scenarios* for a *Social Media Application*.  
-It is designed to validate the *usability, **functionality, and **accessibility* of the application in real-world scenarios, providing structured documentation for quality assurance.
+It is designed to validate the usability,functionality, and accessibility of the application in real-world scenarios, providing structured documentation for quality assurance.
 
-### 🎯 Project Purpose
+###  Project Purpose
 •⁠  ⁠Ensure all *critical user-facing functionalities* work as expected.  
 •⁠  ⁠Identify *defects and usability issues* before production release.  
 •⁠  ⁠Provide a *component-wise structured approach* to manual functional testing.
 
----
 
-## 🧠 Scope
+##  Scope
 The project covers major components and interactions of a typical social media platform:
 
 •⁠  ⁠*User Authentication:* Login, Registration, Forgot Password, OTP Verification  
@@ -23,14 +22,12 @@ The project covers major components and interactions of a typical social media p
 •⁠  ⁠*Settings:* Toggles, preferences, media sharing  
 •⁠  ⁠*Logout Functionality*
 
----
 
-## 🧾 Test Scenarios
-This project contains *200 high-level functional manual testing scenarios*, organized component-wise for clarity and easy reference.
+##  Test Scenarios
+This project contains hundreds of high-level functional manual testing scenarios*, organized component-wise for clarity and easy reference.
 
----
 
-## ⚙️ Usage Instructions
+## Usage Instructions
 To use this project locally:
 
 ```bash
